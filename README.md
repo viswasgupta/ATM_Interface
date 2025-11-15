@@ -38,4 +38,6 @@ Designed for clarity, scalability, and clean modular code.
 ---
 
 ## 📂 Project Structure
-
+- Solution.java # Main project file
+- accounts.csv # Auto-created account storage
+- tx_<id>.log # Transaction history for each account
